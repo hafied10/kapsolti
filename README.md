@@ -1,2 +1,7 @@
-# kapsolti
-موقع كبسولتى للمحاضرات والسكاشن والملخصات الخاصه بالقسم 
+"# kapsolty" 
+"# kapsolty" 
+"# kapsolty" 
+"# kapsolty" 
+"# kapsolty" 
+"# kapsolty" 
+"# kapsolty" 
