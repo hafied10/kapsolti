@@ -91,22 +91,43 @@ header a:not(.act)::after{
   border-radius: 10px;
   cursor: default;
 }
-header .fa-bars {
-  font-size: 40px;
-  color: #fff;
+header .bars {
   display: none;
 }
+header .bars span{
+  width: 100%;
+    height: 5px;
+    background-color: white;
+    border-radius: 5px;
+}
 @media (max-width: 768px) {
-  header .fa-bars {
-    display: block;
+  header .bars {
+    width: 35px;
+    height: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: flex-end; */
+  align-content: space-around;
+  z-index: 2;
   }
   header .container ul {
     display: none;
-    /* position: absolute;
+    position: relative;
+    /* 
     bottom: 4px; */
     /* transition: 5s;  */
   }
-  header .container i:hover + ul {
+  /* header .container ul::after {
+    content: "";
+        position: absolute;
+        width: 100%;
+        height: 40px;
+        background-color: #ff0c0c;
+        top: -30px;
+        left: 0;
+  } */
+
+  header .container .bars:hover + ul {
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -118,6 +139,7 @@ header .fa-bars {
     transition: 0.3s;
     padding: 0 15px;
   }
+
   header a {
     padding: 15px;
     margin: 15px 0;
@@ -276,4 +298,6 @@ footer {
 footer span {
   color: #ebc109;
 }
+
+
 /* end footer */

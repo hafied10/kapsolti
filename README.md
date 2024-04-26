@@ -1,5 +1,7 @@
 "# kapsolty" 
 "# kapsolty" 
-## https://hafied10.github.io/kapsolti/
-# DEMO
-## https://kapsolti.vercel.app/
+"# kapsolty" 
+"# kapsolty" 
+"# kapsolty" 
+"# kapsolty" 
+"# kapsolty" 
