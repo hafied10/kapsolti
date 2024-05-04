@@ -1,7 +1,3 @@
 "# kapsolty" 
 "# kapsolty" 
-"# kapsolty" 
-"# kapsolty" 
-"# kapsolty" 
-"# kapsolty" 
-"# kapsolty" 
+##https://kapsolti.web.app
