@@ -1,3 +1,3 @@
 "# kapsolty" 
 "# kapsolty" 
-##https://kapsolti.web.app
+# https://kapsolti.web.app
